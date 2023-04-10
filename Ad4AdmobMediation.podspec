@@ -22,11 +22,11 @@ Pod::Spec.new do |s|
 Ad4game AdmobMediation ios
                        DESC
 
-  s.homepage         = 'https://github.com/Ad4GameTech/admob-adapter-ios.git'
+  s.homepage         = 'https://github.com/ad4game/a4g-admob-ios.git'
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'jeff.gong' => 'jeff@ad4game.com' }
-  s.source           = { :git => 'https://github.com/Ad4GameTech/admob-adapter-ios.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/ad4game/a4g-admob-ios.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
   s.ios.deployment_target = '10.0'
   s.source_files = 'Class/**/*'
