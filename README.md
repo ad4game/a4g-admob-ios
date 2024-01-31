@@ -15,8 +15,8 @@ Ad4Game iOS adapter for Admob.
 ### CocoaPods
 
 ```ruby
-pod 'Ad4AdmobMediation',:git =>'https://github.com/ad4game/a4g-admob-ios.git','1.1.0'
-pod 'Google-Mobile-Ads-SDK','9.13.0'
+pod "Ad4AdmobMediation", :git => "https://github.com/ad4game/a4g-admob-ios.git", :tag => "main"
+pod "Google-Mobile-Ads-SDK", "9.13.0"
 ```
 
 ### Configure mediation settings for your AdMob ad unit
