@@ -8,7 +8,7 @@ Ad4Game iOS adapter for Admob.
 ## Requirements
 
 - iOS 10.0+
-- GoogleMobileAds 9.13+
+- GoogleMobileAds 10.4+
 
 ## Installation
 
@@ -16,7 +16,7 @@ Ad4Game iOS adapter for Admob.
 
 ```ruby
 pod "Ad4AdmobMediation", :git => "https://github.com/ad4game/a4g-admob-ios.git", :tag => "main"
-pod "Google-Mobile-Ads-SDK", "9.13.0"
+pod "Google-Mobile-Ads-SDK", "10.4.0"
 ```
 
 ### Configure mediation settings for your AdMob ad unit
