@@ -98,7 +98,7 @@
     if (_rewardedAd) {
         [_rewardedAd presentFromRootViewController:viewController
                                       userDidEarnRewardHandler:^{
-            [self->_adEventDelegate didRewardUserWithReward:self->_rewardedAd.adReward];
+            [self->_adEventDelegate didRewardUser];
                                     }];
       }
 }
